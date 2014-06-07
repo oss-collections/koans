@@ -1,3 +1,6 @@
 [submodule "ruby"]
 	path = ruby
 	url = https://github.com/edgecase/ruby_koans.git
+[submodule "python"]
+	path = python
+	url = https://github.com/gregmalcolm/python_koans.wiki.git
