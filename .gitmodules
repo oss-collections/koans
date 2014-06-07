@@ -4,3 +4,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/gregmalcolm/python_koans.wiki.git
+[submodule "php"]
+	path = php
+	url = https://github.com/Farkie/PHP-Koans.git
